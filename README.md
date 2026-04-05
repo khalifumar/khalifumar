@@ -1,9 +1,5 @@
 # Hello everyone !!! 
 
-Perkenalkan nama saya **Khalif Umar Al Faruq**.<br>
-
-Saya seorang **Data Engineer** di [Dicoding](https://www.dicoding.com/).<br>
-
 <tab> Im a Computer Science student at Bina Nusantara University Online with a strong interest in building data-driven systems from end to end. <br>
 
 My main focus is Data Engineering, where I enjoy designing data pipelines, managing databases, and preparing reliable data for analytics and decision-making. Alongside this, I also have experience in Data Analytics and Data Science, enabling me to transform raw data into insights and predictive models that support business strategy. <br>
